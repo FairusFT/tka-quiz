@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="id" data-theme="light">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<title>TKA Quiz — Latihan Tes Kemampuan Akademik</title>
+<meta name="description" content="SPA latihan TKA: Fisika, Bahasa Indonesia, Mixed. Daily quiz, bank soal, progress, history." />
+<link rel="stylesheet" href="css/style.css" />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>" />
+</head>
+<body>
+<header class="topnav" role="banner">
+  <a class="brand" href="#/dashboard" aria-label="TKA Quiz Dashboard">📚 TKA Quiz</a>
+  <nav class="topnav-links" aria-label="Navigasi utama">
+    <a href="#/dashboard" data-nav="dashboard">Dashboard</a>
+    <a href="#/quiz" data-nav="quiz">Daily Quiz</a>
+    <a href="#/bank" data-nav="bank">Bank</a>
+    <a href="#/progress" data-nav="progress">Progress</a>
+    <a href="#/history" data-nav="history">History</a>
+    <a href="#/profile" data-nav="profile">Profile</a>
+    <a href="#/admin" data-nav="admin">Admin</a>
+  </nav>
+  <div class="topnav-actions">
+    <button id="themeToggle" class="icon-btn" type="button" aria-label="Toggle dark mode" title="Dark mode">🌙</button>
+  </div>
+</header>
+
+<main id="app" role="main" aria-live="polite">
+  <div class="loading">Memuat…</div>
+</main>
+
+<nav class="bottomnav" aria-label="Navigasi bawah">
+  <a href="#/dashboard" data-nav="dashboard"><span class="bn-ico">🏠</span><span>Dashboard</span></a>
+  <a href="#/quiz" data-nav="quiz"><span class="bn-ico">📝</span><span>Daily Quiz</span></a>
+  <a href="#/bank" data-nav="bank"><span class="bn-ico">🏦</span><span>Bank</span></a>
+  <a href="#/progress" data-nav="progress"><span class="bn-ico">📈</span><span>Progress</span></a>
+  <a href="#/history" data-nav="history"><span class="bn-ico">🕘</span><span>History</span></a>
+  <a href="#/profile" data-nav="profile"><span class="bn-ico">👤</span><span>Profile</span></a>
+</nav>
+
+<div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+<script src="js/app.js"></script>
+</body>
+</html>

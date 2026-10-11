@@ -1,0 +1,41 @@
+[
+  {
+    "id": "DQ001",
+    "title": "Daily Quiz #001 - Mixed",
+    "date": "2026-10-08",
+    "subject": "Mixed",
+    "category": "Fisika & Bahasa Indonesia",
+    "difficulty": "TKA",
+    "timeLimit": 20,
+    "questionIds": [
+      "FIS001", "FIS002", "FIS003", "FIS004", "FIS005",
+      "BIN001", "BIN002", "BIN003", "BIN004", "BIN005"
+    ]
+  },
+  {
+    "id": "DQ002",
+    "title": "Daily Quiz #002 - Fisika Medan Magnet & Listrik Dinamis",
+    "date": "2026-10-09",
+    "subject": "Fisika",
+    "category": "Medan magnet, Listrik dinamis",
+    "difficulty": "TKA",
+    "timeLimit": 20,
+    "questionIds": [
+      "FIS001", "FIS002", "FIS015", "FIS016", "FIS017", "FIS018",
+      "FIS019", "FIS020", "FIS023", "FIS024"
+    ]
+  },
+  {
+    "id": "DQ003",
+    "title": "Daily Quiz #003 - B.Indo Pemahaman & TKA",
+    "date": "2026-10-10",
+    "subject": "Bahasa Indonesia",
+    "category": "Pemahaman bacaan, Inferensi, TKA",
+    "difficulty": "TKA",
+    "timeLimit": 20,
+    "questionIds": [
+      "BIN001", "BIN002", "BIN004", "BIN005", "BIN008",
+      "BIN010", "BIN011", "BIN014", "BIN018", "BIN020"
+    ]
+  }
+]

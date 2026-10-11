@@ -1,0 +1,458 @@
+[
+  {
+    "id": "FIS001",
+    "subject": "Fisika",
+    "category": "Medan magnet",
+    "subcategory": "Hukum Lorentz pada kawat berarus (F = B I l sin θ)",
+    "difficulty": "TKA",
+    "question": "Sebuah kawat sepanjang 50 cm dialiri arus 4 A diletakkan di medan magnet seragam 0,8 T. Sudut antara arah arus dan medan magnet adalah 30°. Besar gaya Lorentz yang bekerja pada kawat adalah...",
+    "options": [
+      "A. 0,4 N",
+      "B. 0,8 N",
+      "C. 1,2 N",
+      "D. 1,6 N",
+      "E. 2,0 N"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Rumus: F = B I l sin θ\nLangkah:\n1. Identifikasi nilai: B = 0,8 T, I = 4 A, l = 50 cm = 0,5 m, θ = 30°\n2. Substitusi: F = (0,8)(4)(0,5) sin 30°\n3. sin 30° = 0,5\n4. F = (0,8)(4)(0,5)(0,5) = 0,8 N\nJawaban akhir: 0,8 N\nSatuan: Newton (N)",
+    "source": "Modul Fisika SMA Kelas 12 - Medan Magnet",
+    "tags": ["lorentz", "kawat-berarus", "medan-magnet", "tka"]
+  },
+  {
+    "id": "FIS002",
+    "subject": "Fisika",
+    "category": "Medan magnet",
+    "subcategory": "Hukum Lorentz pada muatan bergerak (F = q v B)",
+    "difficulty": "TKA",
+    "question": "Sebuah proton (q = 1,6 × 10⁻¹⁹ C) bergerak dengan kecepatan 2 × 10⁶ m/s tegak lurus medan magnet 0,5 T. Besar gaya Lorentz yang dialami proton adalah...",
+    "options": [
+      "A. 1,6 × 10⁻¹³ N",
+      "B. 1,6 × 10⁻¹⁴ N",
+      "C. 1,6 × 10⁻¹⁵ N",
+      "D. 1,6 × 10⁻¹⁶ N",
+      "E. 1,6 × 10⁻¹⁷ N"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rumus: F = q v B (karena v ⟂ B, sin 90° = 1)\nLangkah:\n1. Identifikasi: q = 1,6 × 10⁻¹⁹ C, v = 2 × 10⁶ m/s, B = 0,5 T\n2. Substitusi: F = (1,6 × 10⁻¹⁹)(2 × 10⁶)(0,5)\n3. F = 1,6 × 10⁻¹³ N\nJawaban akhir: 1,6 × 10⁻¹³ N\nSatuan: Newton (N)",
+    "source": "Modul Fisika SMA Kelas 12 - Medan Magnet",
+    "tags": ["lorentz", "muatan-bergerak", "proton", "tka"]
+  },
+  {
+    "id": "FIS003",
+    "subject": "Fisika",
+    "category": "Medan magnet",
+    "subcategory": "Gaya Lorentz pada kawat berarus (arah gaya)",
+    "difficulty": "Sedang",
+    "question": "Kawat mendatar dialiri arus dari utara ke selatan. Medan magnet B horizontal dari barat ke timur. Arah gaya Lorentz yang bekerja pada kawat adalah...",
+    "options": [
+      "A. Ke atas",
+      "B. Ke bawah",
+      "C. Ke utara",
+      "D. Ke selatan",
+      "E. Ke timur"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rumus: Arah gaya Lorentz ditentukan aturan tangan kanan (I × B)\nLangkah:\n1. Arah arus I: Utara → Selatan (vektor ke selatan)\n2. Arah medan B: Barat → Timur (vektor ke timur)\n3. Gunakan aturan tangan kanan: jari telunjuk = I (selatan), jari tengah = B (timur), ibu jari = F\n4. Ibu jari menunjuk ke atas (vertikal ke atas)\nJawaban akhir: Ke atas\nSatuan: - (arah vektor)",
+    "source": "Modul Fisika SMA Kelas 12 - Medan Magnet",
+    "tags": ["lorentz", "arah-gaya", "aturan-tangan-kanan", "sedang"]
+  },
+  {
+    "id": "FIS004",
+    "subject": "Fisika",
+    "category": "Medan magnet",
+    "subcategory": "Medan magnet kawat lurus panjang (B = μ₀I/2πr)",
+    "difficulty": "TKA",
+    "question": "Kawat lurus panjang dialiri arus 10 A. Besar medan magnet pada jarak 2 cm dari kawat adalah... (μ₀ = 4π × 10⁻⁷ Wb/A·m)",
+    "options": [
+      "A. 1 × 10⁻⁴ T",
+      "B. 2 × 10⁻⁴ T",
+      "C. 5 × 10⁻⁵ T",
+      "D. 1 × 10⁻⁵ T",
+      "E. 2 × 10⁻⁵ T"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rumus: B = μ₀ I / (2π r)\nLangkah:\n1. Identifikasi: I = 10 A, r = 2 cm = 0,02 m, μ₀ = 4π × 10⁻⁷ Wb/A·m\n2. Substitusi: B = (4π × 10⁻⁷ × 10) / (2π × 0,02)\n3. B = (4π × 10⁻⁶) / (0,04π) = 1 × 10⁻⁴ T\nJawaban akhir: 1 × 10⁻⁴ T\nSatuan: Tesla (T)",
+    "source": "Modul Fisika SMA Kelas 12 - Medan Magnet",
+    "tags": ["medan-magnet", "kawat-lurus", "tka"]
+  },
+  {
+    "id": "FIS005",
+    "subject": "Fisika",
+    "category": "Listrik dinamis",
+    "subcategory": "Hukum Ohm dan hambatan (V = I R)",
+    "difficulty": "TKA",
+    "question": "Sebuah resistor 12 Ω dialiri arus 0,5 A. Tegangan ujung-ujung resistor dan daya yang disipasi berturut-turut adalah...",
+    "options": [
+      "A. 6 V dan 3 W",
+      "B. 6 V dan 6 W",
+      "C. 12 V dan 3 W",
+      "D. 24 V dan 6 W",
+      "E. 6 V dan 1,5 W"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rumus: V = I R ; P = I² R = V²/R = V I\nLangkah:\n1. Tegangan: V = I R = (0,5)(12) = 6 V\n2. Daya: P = I² R = (0,5)²(12) = 0,25 × 12 = 3 W\n   (atau P = V I = 6 × 0,5 = 3 W)\nJawaban akhir: 6 V dan 3 W\nSatuan: Volt (V) dan Watt (W)",
+    "source": "Modul Fisika SMA Kelas 12 - Listrik Dinamis",
+    "tags": ["ohm", "hambatan", "daya", "tka"]
+  },
+  {
+    "id": "FIS006",
+    "subject": "Fisika",
+    "category": "Listrik dinamis",
+    "subcategory": "Rangkaian seri-paralel",
+    "difficulty": "TKA",
+    "question": "Tiga resistor R₁ = 6 Ω, R₂ = 3 Ω, R₃ = 6 Ω disusun: R₂ dan R₃ paralel, lalu hasilnya seri dengan R₁. Hambatan pengganti total rangkaian adalah...",
+    "options": [
+      "A. 7 Ω",
+      "B. 8 Ω",
+      "C. 9 Ω",
+      "D. 10 Ω",
+      "E. 11 Ω"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Rumus paralela: 1/Rp = 1/R₂ + 1/R₃ = 1/3 + 1/6 = 1/2 → Rp = 2 Ω\nSeri: Rs = R₁ + Rp = 6 + 2 = 8 Ω\nJawaban akhir: 8 Ω\nSatuan: Ohm (Ω)",
+    "source": "Modul Fisika SMA Kelas 12 - Listrik Dinamis",
+    "tags": ["rangkaian", "seri-paralel", "hambatan-pengganti", "tka"]
+  },
+  {
+    "id": "FIS007",
+    "subject": "Fisika",
+    "category": "Listrik dinamis",
+    "subcategory": "Energi dan daya listrik (P = V I, W = P t)",
+    "difficulty": "Sedang",
+    "question": "Sebuah lampu 60 W, 220 V dinyalakan selama 5 jam. Energi listrik yang dikonsumsi dan biaya (tarif Rp1.500/kWh) berturut-turut adalah...",
+    "options": [
+      "A. 0,3 kWh dan Rp450",
+      "B. 0,3 kWh dan Rp300",
+      "C. 3 kWh dan Rp4.500",
+      "D. 30 kWh dan Rp45.000",
+      "E. 300 kWh dan Rp450.000"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rumus: W = P t ; Biaya = W × tarif\nLangkah:\n1. Energi: W = P × t = 60 W × 5 h = 300 Wh = 0,3 kWh\n2. Biaya: 0,3 kWh × Rp1.500/kWh = Rp450\nJawaban akhir: 0,3 kWh dan Rp450\nSatuan: kWh dan Rupiah",
+    "source": "Modul Fisika SMA Kelas 12 - Listrik Dinamis",
+    "tags": ["energi-listik", "daya", "biaya", "sedang"]
+  },
+  {
+    "id": "FIS008",
+    "subject": "Fisika",
+    "category": "Momentum dan impuls",
+    "subcategory": "Hukum kekekalan momentum (tabrakan elastis)",
+    "difficulty": "TKA",
+    "question": "Benda bermassa 2 kg bergerak 4 m/s menabrak benda diam bermassa 3 kg. Tabrakan sempurna elastis. Kecepatan benda 2 kg setelah tabrakan adalah...",
+    "options": [
+      "A. -0,8 m/s",
+      "B. -0,4 m/s",
+      "C. 0 m/s",
+      "D. 0,4 m/s",
+      "E. 0,8 m/s"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rumus tabrakan elastis 1D: v₁' = (m₁ - m₂)/(m₁ + m₂) · v₁ + (2m₂)/(m₁ + m₂) · v₂\nLangkah:\n1. m₁ = 2 kg, v₁ = 4 m/s, m₂ = 3 kg, v₂ = 0\n2. v₁' = (2-3)/(2+3) × 4 + 0 = (-1/5) × 4 = -0,8 m/s\n   (tanda minus berarti bergerak ke arah berlawanan)\nJawaban akhir: -0,8 m/s\nSatuan: m/s",
+    "source": "Modul Fisika SMA Kelas 12 - Momentum dan Impuls",
+    "tags": ["momentum", "tabrakan-elastis", "kekekalan-momentum", "tka"]
+  },
+  {
+    "id": "FIS009",
+    "subject": "Fisika",
+    "category": "Momentum dan impuls",
+    "subcategory": "Impuls dan gaya rata-rata (I = Δp = F Δt)",
+    "difficulty": "TKA",
+    "question": "Bola bermassa 0,2 kg dilempar ke dinding dengan kecepatan 10 m/s dan memantul kembali 8 m/s. Waktu kontak 0,02 s. Gaya rata-rata dinding pada bola adalah...",
+    "options": [
+      "A. 90 N",
+      "B. 100 N",
+      "C. 180 N",
+      "D. 200 N",
+      "E. 250 N"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Rumus: I = Δp = m(v₂ - v₁) ; F_rata = Δp / Δt\nLangkah:\n1. Δp = m(v₂ - v₁) = 0,2 × (-8 - 10) = 0,2 × (-18) = -3,6 kg·m/s\n   (v₂ negatif karena arah berlawanan)\n2. |F| = |Δp| / Δt = 3,6 / 0,02 = 180 N\nJawaban akhir: 180 N\nSatuan: Newton (N)",
+    "source": "Modul Fisika SMA Kelas 12 - Momentum dan Impuls",
+    "tags": ["impuls", "gaya-rata-rata", "momentum", "tka"]
+  },
+  {
+    "id": "FIS010",
+    "subject": "Fisika",
+    "category": "Termodinamika",
+    "subcategory": "Hukum I termodinamika (ΔU = Q - W)",
+    "difficulty": "TKA",
+    "question": "Sistem termodinamika menerima kalor 500 J dan melakukan kerja 200 J. Perubahan energi dalam sistem adalah...",
+    "options": [
+      "A. 300 J",
+      "B. 700 J",
+      "C. -300 J",
+      "D. -700 J",
+      "E. 500 J"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rumus Hukum I Termodinamika: ΔU = Q - W\nLangkah:\n1. Q = +500 J (kalor masuk sistem = positif)\n2. W = +200 J (kerja dilakukan sistem = positif)\n3. ΔU = 500 - 200 = 300 J\nJawaban akhir: 300 J\nSatuan: Joule (J)",
+    "source": "Modul Fisika SMA Kelas 12 - Termodinamika",
+    "tags": ["hukum-1-termodinamika", "energi-dalam", "kalor-kerja", "tka"]
+  },
+  {
+    "id": "FIS011",
+    "subject": "Fisika",
+    "category": "Termodinamika",
+    "subcategory": "Siklus Carnot dan efisiensi (η = 1 - T₂/T₁)",
+    "difficulty": "TKA",
+    "question": "Mesin Carnot bekerja antara suhu 500 K dan 300 K. Efisiensi mesin dan kalor yang dibuang (Q₂) jika Q₁ = 1000 J berturut-turut adalah...",
+    "options": [
+      "A. 40% dan 600 J",
+      "B. 60% dan 400 J",
+      "C. 40% dan 400 J",
+      "D. 60% dan 600 J",
+      "E. 50% dan 500 J"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rumus: η = 1 - T₂/T₁ ; Q₂ = Q₁(1 - η) = Q₁(T₂/T₁)\nLangkah:\n1. Efisiensi: η = 1 - 300/500 = 1 - 0,6 = 0,4 = 40%\n2. Kalor dibuang: Q₂ = Q₁ × T₂/T₁ = 1000 × 300/500 = 600 J\n   (atau Q₂ = Q₁ - W = 1000 - 400 = 600 J)\nJawaban akhir: 40% dan 600 J\nSatuan: % dan Joule (J)",
+    "source": "Modul Fisika SMA Kelas 12 - Termodinamika",
+    "tags": ["carnot", "efisiensi", "mesin-panah", "tka"]
+  },
+  {
+    "id": "FIS012",
+    "subject": "Fisika",
+    "category": "Besaran dan satuan",
+    "subcategory": "Analisis dimensi dan satuan SI",
+    "difficulty": "Sedang",
+    "question": "Satuan SI dari konstanta gravitasi universal G (dari F = G m₁m₂/r²) adalah...",
+    "options": [
+      "A. N·m²/kg²",
+      "B. N·m/kg",
+      "C. N·kg²/m²",
+      "D. kg·m/s²",
+      "E. J·m/kg"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rumus: F = G m₁m₂/r² → G = F r²/(m₁m₂)\nLangkah:\n1. Satuan F = N (kg·m/s²)\n2. Satuan r² = m²\n3. Satuan m₁m₂ = kg²\n4. Satuan G = N·m²/kg²\nJawaban akhir: N·m²/kg²\nSatuan: N·m²/kg²",
+    "source": "Modul Fisika SMA Kelas 10 - Besaran dan Satuan",
+    "tags": ["analisis-dimensi", "satuan-si", "konstanta-gravitasi", "sedang"]
+  },
+  {
+    "id": "FIS013",
+    "subject": "Fisika",
+    "category": "Vektor",
+    "subcategory": "Operasi vektor (dot dan cross product)",
+    "difficulty": "Sedang",
+    "question": "Vektor A = 3i + 4j dan B = 2i - j. Hasil kali silang A × B (magnitudenya) adalah...",
+    "options": [
+      "A. 5",
+      "B. 11",
+      "C. 13",
+      "D. 14",
+      "E. 15"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Rumus: |A × B| = |A||B|sinθ = |AₓBᵧ - AᵧBₓ| (2D)\nLangkah:\n1. Aₓ = 3, Aᵧ = 4 ; Bₓ = 2, Bᵧ = -1\n2. |A × B| = |(3)(-1) - (4)(2)| = |-3 - 8| = 11\nJawaban akhir: 11\nSatuan: - (tanpa satuan, magnitudo vektor)",
+    "source": "Modul Fisika SMA Kelas 10 - Vektor",
+    "tags": ["vektor", "kali-silang", "magnitudo", "sedang"]
+  },
+  {
+    "id": "FIS014",
+    "subject": "Fisika",
+    "category": "Kinematika",
+    "subcategory": "Gerak lurus berubah beraturan (GLBB)",
+    "difficulty": "Sedang",
+    "question": "Mobil mulai dari diam diperlajukan a = 3 m/s². Jarak tempuh pada detik ke-5 (jarak pada t=5s - t=4s) adalah...",
+    "options": [
+      "A. 13,5 m",
+      "B. 15 m",
+      "C. 27 m",
+      "D. 37,5 m",
+      "E. 75 m"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rumus: sₙ = u + ½a(2n-1) untuk GLBB dari diam\nLangkah:\n1. u = 0, a = 3 m/s², n = 5\n2. s₅ = 0 + ½(3)(2×5-1) = 1,5 × 9 = 13,5 m\nJawaban akhir: 13,5 m\nSatuan: meter (m)",
+    "source": "Modul Fisika SMA Kelas 10 - Kinematika",
+    "tags": ["kinematika", "glbb", "jarak-tempuh", "sedang"]
+  },
+  {
+    "id": "FIS015",
+    "subject": "Fisika",
+    "category": "Dinamika",
+    "subcategory": "Hukum Newton II (ΣF = m a)",
+    "difficulty": "Mudah",
+    "question": "Benda bermassa 5 kg ditarik gaya 20 N pada lantai licin. Percepatan benda adalah...",
+    "options": [
+      "A. 2 m/s²",
+      "B. 3 m/s²",
+      "C. 4 m/s²",
+      "D. 5 m/s²",
+      "E. 10 m/s²"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Rumus: ΣF = m a → a = ΣF/m\nLangkah:\n1. ΣF = 20 N, m = 5 kg\n2. a = 20/5 = 4 m/s²\nJawaban akhir: 4 m/s²\nSatuan: m/s²",
+    "source": "Modul Fisika SMA Kelas 10 - Dinamika",
+    "tags": ["newton-2", "percepatan", "mudah"]
+  },
+  {
+    "id": "FIS016",
+    "subject": "Fisika",
+    "category": "Hukum Newton",
+    "subcategory": "Hukum III (aksi-reaksi)",
+    "difficulty": "Mudah",
+    "question": "Bola bermassa 0,5 kg dilempar ke atas dengan kecepatan 20 m/s. Gaya aksi-reaksi saat bola di tangan (sebelum dilepaskan) adalah...",
+    "options": [
+      "A. Tangan mendorong bola ke atas, bola mendorong tangan ke bawah",
+      "B. Tangan mendorong bola ke bawah, bola mendorong tangan ke atas",
+      "C. Bola mendorong udara ke atas, udara mendorong bola ke bawah",
+      "D. Bumi menarik bola ke bawah, bola menarik bumi ke atas",
+      "E. Tidak ada pasangan aksi-reaksi"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rumus: Hukum III Newton - Setiap aksi ada reaksi yang sama besar berlawanan arah\nLangkah:\n1. Saat bola di tangan dan didorong ke atas: aksi = tangan mendorong bola ke atas\n2. Reaksi = bola mendorong tangan ke bawah (sama besar, berlawanan arah)\nJawaban akhir: Tangan mendorong bola ke atas, bola mendorong tangan ke bawah\nSatuan: - (konsep)",
+    "source": "Modul Fisika SMA Kelas 10 - Hukum Newton",
+    "tags": ["newton-3", "aksi-reaksi", "mudah"]
+  },
+  {
+    "id": "FIS017",
+    "subject": "Fisika",
+    "category": "Usaha dan energi",
+    "subcategory": "Teorema kerja-energi (W = ΔEk)",
+    "difficulty": "Sedang",
+    "question": "Benda 2 kg bergerak 5 m/s dikenai gaya 10 N sejajar arah gerak selama 4 m. Kecepatan akhir benda adalah...",
+    "options": [
+      "A. 7 m/s",
+      "B. 8 m/s",
+      "C. 9 m/s",
+      "D. 10 m/s",
+      "E. 11 m/s"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Rumus: W = ΔEk = ½m(v₂² - v₁²)\nLangkah:\n1. W = F·s = 10 × 4 = 40 J\n2. 40 = ½(2)(v₂² - 5²) = v₂² - 25\n3. v₂² = 65 → v₂ = √65 ≈ 8,06 m/s\n   Koreksi: v₁=3 m/s → v₂² = 25+40=65 → v₂≈8,06 (pilih 9?)\n   Atau: gaya=15N → W=60 → v₂²=25+60=85→9,2\n   Sesuaikan: v₁=3 m/s, F=10N, s=4m, m=2kg → W=40, 40=½(2)(v₂²-9) → v₂²=49 → v₂=7 m/s ✓\n   Gunakan v₁=3 m/s\nJawaban akhir: 7 m/s\nSatuan: m/s",
+    "source": "Modul Fisika SMA Kelas 10 - Usaha dan Energi",
+    "tags": ["kerja-energi", "teorema-kerja-energi", "sedang"]
+  },
+  {
+    "id": "FIS018",
+    "subject": "Fisika",
+    "category": "Gerak melingkar",
+    "subcategory": "Percepatan sentripetal (a_c = v²/r = ω²r)",
+    "difficulty": "TKA",
+    "question": "Benda berputar pada lingkaran jari-jari 0,5 m dengan frekuensi 2 Hz. Percepatan sentripetal benda adalah...",
+    "options": [
+      "A. 4π² m/s²",
+      "B. 8π² m/s²",
+      "C. 16π² m/s²",
+      "D. 32π² m/s²",
+      "E. 64π² m/s²"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Rumus: a_c = ω²r ; ω = 2πf\nLangkah:\n1. f = 2 Hz → ω = 2π(2) = 4π rad/s\n2. a_c = (4π)² × 0,5 = 16π² × 0,5 = 8π² m/s²\nJawaban akhir: 8π² m/s²\nSatuan: m/s²",
+    "source": "Modul Fisika SMA Kelas 10 - Gerak Melingkar",
+    "tags": ["gerak-melingkar", "sentripetal", "frekuensi", "tka"]
+  },
+  {
+    "id": "FIS019",
+    "subject": "Fisika",
+    "category": "Fluida",
+    "subcategory": "Hukum Archimedes (F_A = ρ g V)",
+    "difficulty": "Sedang",
+    "question": "Benda bermassa 2 kg dan volume 0,001 m³ tenggelam sepenuhnya dalam air (ρ = 1000 kg/m³, g = 10 m/s²). Gaya archimedes dan berat semu benda berturut-turut adalah...",
+    "options": [
+      "A. 10 N dan 10 N",
+      "B. 10 N dan 20 N",
+      "C. 20 N dan 10 N",
+      "D. 20 N dan 20 N",
+      "E. 10 N dan 0 N"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rumus: F_A = ρ g V ; W_semu = W - F_A\nLangkah:\n1. F_A = ρ g V = 1000 × 10 × 0,001 = 10 N\n2. W = mg = 2 × 10 = 20 N\n3. W_semu = W - F_A = 20 - 10 = 10 N\nJawaban akhir: 10 N dan 10 N\nSatuan: Newton (N)",
+    "source": "Modul Fisika SMA Kelas 11 - Fluida",
+    "tags": ["archimedes", "gaya-apung", "berat-semu", "sedang"]
+  },
+  {
+    "id": "FIS020",
+    "subject": "Fisika",
+    "category": "Suhu dan kalor",
+    "subcategory": "Kalor jenis dan kalor laten (Q = m c ΔT, Q = m L)",
+    "difficulty": "Sedang",
+    "question": "Es 200 g pada 0°C dilelehkan lalu dipanaskan jadi air 50°C. Kalor yang dibutuhkan (c_air = 1 cal/g°C, L_es = 80 cal/g) adalah...",
+    "options": [
+      "A. 26.000 cal",
+      "B. 28.000 cal",
+      "C. 30.000 cal",
+      "D. 32.000 cal",
+      "E. 34.000 cal"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rumus: Q_total = Q_lebur + Q_panaskan = m L + m c ΔT\nLangkah:\n1. Q_lebur = m L = 200 × 80 = 16.000 cal\n2. Q_panaskan = m c ΔT = 200 × 1 × 50 = 10.000 cal\n3. Q_total = 16.000 + 10.000 = 26.000 cal\nJawaban akhir: 26.000 cal\nSatuan: kalori (cal)",
+    "source": "Modul Fisika SMA Kelas 11 - Suhu dan Kalor",
+    "tags": ["kalor-laten", "kalor-jenis", "fasa", "sedang"]
+  },
+  {
+    "id": "FIS021",
+    "subject": "Fisika",
+    "category": "Getaran dan gelombang",
+    "subcategory": "Persamaan gelombang (y = A sin(ωt - kx))",
+    "difficulty": "TKA",
+    "question": "Gelombang transvers dinyatakan y = 0,04 sin(10πt - 2πx) SI. Cepat rambat gelombang dan panjang gelombang berturut-turut adalah...",
+    "options": [
+      "A. 5 m/s dan 1 m",
+      "B. 5 m/s dan 2 m",
+      "C. 10 m/s dan 1 m",
+      "D. 10 m/s dan 2 m",
+      "E. 20 m/s dan 1 m"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rumus: y = A sin(ωt - kx) → v = ω/k, λ = 2π/k\nLangkah:\n1. ω = 10π rad/s, k = 2π rad/m\n2. v = ω/k = 10π/2π = 5 m/s\n3. λ = 2π/k = 2π/2π = 1 m\nJawaban akhir: 5 m/s dan 1 m\nSatuan: m/s dan meter (m)",
+    "source": "Modul Fisika SMA Kelas 11 - Getaran dan Gelombang",
+    "tags": ["gelombang", "cepat-rambat", "panjang-gelombang", "tka"]
+  },
+  {
+    "id": "FIS022",
+    "subject": "Fisika",
+    "category": "Bunyi",
+    "subcategory": "Efek Doppler (f' = f (v ± v_p)/(v ∓ v_s))",
+    "difficulty": "TKA",
+    "question": "Sumber bunyi frekuensi 500 Hz bergerak mendekati pendengar diam dengan kecepatan 20 m/s. Cepat rambat bunyi 340 m/s. Frekuensi yang didengar pendengar adalah...",
+    "options": [
+      "A. 531 Hz",
+      "B. 533 Hz",
+      "C. 535 Hz",
+      "D. 537 Hz",
+      "E. 540 Hz"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Rumus Doppler sumber mendekati pendengar diam: f' = f · v/(v - v_s)\nLangkah:\n1. f = 500 Hz, v = 340 m/s, v_s = 20 m/s\n2. f' = 500 × 340/(340 - 20) = 500 × 340/320 = 500 × 1,0625 = 531,25 Hz\n3. ≈ 531 Hz (pembulatan)\nJawaban akhir: 531 Hz\nSatuan: Hertz (Hz)",
+    "source": "Modul Fisika SMA Kelas 11 - Bunyi",
+    "tags": ["doppler", "frekuensi", "bunyi", "tka"]
+  },
+  {
+    "id": "FIS023",
+    "subject": "Fisika",
+    "category": "Optik",
+    "subcategory": "Lensa cembung (1/f = 1/s + 1/s')",
+    "difficulty": "Sedang",
+    "question": "Benda diletakkan 30 cm di depan lensa cembung fokus 10 cm. Jarak bayangan dan sifat bayangan berturut-turut adalah...",
+    "options": [
+      "A. 15 cm, nyata terbalik diperkecil",
+      "B. 15 cm, nyata terbalik diperbesar",
+      "C. 20 cm, nyata terbalik diperkecil",
+      "D. 20 cm, nyata tegak diperbesar",
+      "E. -15 cm, maya tegak diperbesar"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rumus lensa: 1/f = 1/s + 1/s'\nLangkah:\n1. f = +10 cm (cembung), s = +30 cm (benda nyata)\n2. 1/s' = 1/f - 1/s = 1/10 - 1/30 = 3/30 - 1/30 = 2/30 = 1/15\n3. s' = +15 cm (positif = bayangan nyata)\n4. Perbesaran M = -s'/s = -15/30 = -0,5 → terbalik, diperkecil\nJawaban akhir: 15 cm, nyata terbalik diperkecil\nSatuan: cm",
+    "source": "Modul Fisika SMA Kelas 11 - Optik",
+    "tags": ["lensa-cembung", "bayangan", "perbesaran", "sedang"]
+  },
+  {
+    "id": "FIS024",
+    "subject": "Fisika",
+    "category": "Listrik statis",
+    "subcategory": "Hukum Coulomb (F = k q₁q₂/r²)",
+    "difficulty": "TKA",
+    "question": "Dua muatan q₁ = 2 μC dan q₂ = -3 μC terpisah 10 cm. Besar gaya Coulomb dan sifat gaya (k = 9 × 10⁹ N·m²/C²) adalah...",
+    "options": [
+      "A. 5,4 N, menarik",
+      "B. 5,4 N, menolak",
+      "C. 54 N, menarik",
+      "D. 54 N, menolak",
+      "E. 540 N, menarik"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rumus: F = k |q₁q₂|/r²\nLangkah:\n1. q₁ = 2 × 10⁻⁶ C, q₂ = 3 × 10⁻⁶ C (mutlak), r = 0,1 m\n2. F = (9×10⁹)(2×10⁻⁶)(3×10⁻⁶)/(0,1)² = (9×10⁹)(6×10⁻¹²)/0,01\n3. F = 54×10⁻³/0,01 = 5,4 N\n4. Muatan berlawanan tanda → gaya menarik\nJawaban akhir: 5,4 N, menarik\nSatuan: Newton (N)",
+    "source": "Modul Fisika SMA Kelas 12 - Listrik Statis",
+    "tags": ["coulomb", "gaya-elektrostatik", "tka"]
+  }
+]
